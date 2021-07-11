@@ -44,5 +44,11 @@ On challenge I encountered involved constraints and auto layout. In the end, it 
 
 ![](https://i.imgur.com/7H7FWB9.gif)
 
+
+![](https://i.imgur.com/aZMwTQs.gif)
+
+
+
+
 ### Notes
 While I could follow along with the demonstration videos, I felt that I didn't understand why it all worked. I'd like to gain a deeper understanding of swift and xcode so that I am more confident in the future.
