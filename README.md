@@ -1,3 +1,5 @@
+![FlixP1(iphone8)](https://user-images.githubusercontent.com/73633726/125183789-1cf0fc80-e1ce-11eb-862e-d254ad63b8dd.gif)
+![FlixP1(iphone12)](https://user-images.githubusercontent.com/73633726/125183806-2ed29f80-e1ce-11eb-937d-b8e12b61b878.gif)
 # Flixster
 
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
